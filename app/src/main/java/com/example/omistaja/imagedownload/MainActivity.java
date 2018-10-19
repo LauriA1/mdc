@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     DownloadImage downloadImage;
 
-    private String url = "https://s3.eu-west-2.amazonaws.com/optimawatermeters/01102018_01/b827eb27fc01.01102018010103.jpg";
+    private String url = "https://s3.eu-west-2.amazonaws.com/optimawatermeters/01102018_01/****eb27fc01.01102018010103.jpg";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
